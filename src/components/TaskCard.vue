@@ -1,5 +1,4 @@
 <script setup lang='ts'>
-import { useLocalStorage } from '@vueuse/core';
 import { Task } from '../types';
 import Icon from './Icon.vue';
 
